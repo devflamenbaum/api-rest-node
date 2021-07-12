@@ -14,5 +14,7 @@ module.exports = {
     'no-console': 'off',
     'class-methods-use-this': 'off',
     'no-param-reassign': 'off',
+    // eslint-disable-next-line quote-props
+    'camelcase': 'off',
   },
 };
